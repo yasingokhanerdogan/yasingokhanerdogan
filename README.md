@@ -1,8 +1,8 @@
 ### Hi there. I'm Gökhan 👋
 
-### yasingokhanerdogan@gmail.com
 ### https://yasingokhanerdogan.com/
 ### https://www.linkedin.com/in/yasingokhanerdogan/
+### yasingokhanerdogan@gmail.com
 
 ### Languages and Tools:
 <div style="display: flex;">
