@@ -5,7 +5,7 @@
 ### https://www.linkedin.com/in/yasingokhanerdogan/
 
 ### Languages and Tools:
-![visual-studio-code](https://user-images.githubusercontent.com/98515631/180616219-2bd099d9-4921-4a20-878b-bb85e3d51ae1.png | width=100)
+![visual-studio-code](https://user-images.githubusercontent.com/98515631/180616219-2bd099d9-4921-4a20-878b-bb85e3d51ae1.png)
 ![git](https://user-images.githubusercontent.com/98515631/180616222-8600530a-7987-45f7-89e4-f25a8883816b.png)
 ![github](https://user-images.githubusercontent.com/98515631/180616224-f9d5131f-2c92-43b8-8e3d-936b842f2f41.png)
 ![javascript](https://user-images.githubusercontent.com/98515631/180616226-ec185995-73fb-41bb-9371-8074f8a005a0.png)
