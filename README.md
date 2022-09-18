@@ -1,4 +1,4 @@
-### Hi there. I'm Gökhan 👋
+### Hi, I am Gökhan 👋, I am a frontend developer. Who loves to research and learn, trying to improve and keep himself updated in the field of software.
 
 ### https://yasingokhanerdogan.com/
 ### https://www.linkedin.com/in/yasingokhanerdogan/
