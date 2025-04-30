@@ -1,39 +1,35 @@
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Gökhan</h1>
+<h3 align="center">Full Stack Developer | Next.js · Node.js · Spring Boot · MongoDB · Docker</h3>
 
-## Hi there 👋. I am <a href="https://yasingokhanerdogan.com" target="_blank" rel="nofollow">Gökhan.</a> Interested in learning and exploring more about Full Stack Development.
+<!-- ABOUT -->
+<h2>👨‍💻 About Me</h2>
 
-### Connect with me:
+<ul>
+  <li>🔭 Building scalable and modular full-stack apps</li>
+  <li>🛠️ Focused on clean architecture, reusable components, and DX</li>
+  <li>⚙️ Tech Stack: Next.js, React, Node.js, MongoDB, Docker, TailwindCSS</li>
+  <li>🌱 Currently learning microservices, CI/CD and AI-powered tools</li>
+  <li>🚀 Open to work opportunities</li>
+</ul>
 
-### <a href="https://www.yasingokhanerdogan.com/?utm_source=github" rel="nofollow" target="_blank">yasingokhanerdogan.com</a>
-### <a href="https://www.linkedin.com/in/yasingokhanerdogan" rel="nofollow" target="_blank">linkedin.com/in/yasingokhanerdogan</a>
-### <a href="mailto:yasingokhanerdogan@gmail.com" rel="nofollow" target="_blank">yasingokhanerdogan@gmail.com</a>
+<!-- TECHNOLOGIES -->
+<h2>🚀 Technologies I Use</h2>
 
-<br/> 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,nodejs,express,spring,python,mongodb,mysql,github,nginx,docker,linux,figma,photoshop,illustrator" />
+</p>
 
-<div>
-  <img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/html5.svg">
-  <img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/css3.svg">
-  <img alt="JAVASCRIPT" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/javascript.svg">
-  <img alt="NODEJS" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/nodejs.svg">
-  <img alt="PHP" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/php.svg">
-  <img alt="PYTHON" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/python.svg">
-  <img alt="MYSQL" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/mysql.svg">
-  <img alt="MONGODB" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/mongodb.svg">
-  <img alt="DOCKER" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/docker.svg">
-  <img alt="NGINX" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/nginx.svg">
-  <img alt="NPM" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/npm.svg">
-  <img alt="GIT" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/git.svg">
-</div>
+<!-- CONTACT -->
+<h2>💼 Let's Connect</h2>
 
-<!--
+<ul>
+  <li>📧 Email: <a href="mailto:yasingokhanerdogan@gmail.com">yasingokhanerdogan@gmail.com</a></li>
+  <li>🔗 LinkedIn: <a href="https://linkedin.com/in/yasingokhanerdogan">linkedin.com/in/yasingokhanerdogan</a></li>
+  <li>🌐 Website: <a href="https://www.yasingokhanerdogan.com">yasingokhanerdogan.com</a></li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasingokhanerdogan&style=flat-square&color=blue" alt="visitor counter"/>
+</p>
