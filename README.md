@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
-<h3 align="center">Full Stack Developer | Next.js · Node.js · Spring Boot · MongoDB · Docker</h3>
+<h3 align="center">Web & Mobile Developer | React · React Native · Node.js · Spring Boot · MongoDB · Docker</h3>
 
 <!-- ABOUT -->
 <h2>👨‍💻 About Me</h2>
