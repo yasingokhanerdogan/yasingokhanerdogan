@@ -8,7 +8,7 @@
 <ul>
   <li>🔭 Building scalable and modular full-stack apps</li>
   <li>🛠️ Focused on clean architecture, reusable components, and DX</li>
-  <li>⚙️ Tech Stack: Next.js, React, Node.js, MongoDB, Docker, TailwindCSS</li>
+  <li>⚙️ Tech Stack: Next.js, React, React Native, Node.js, MongoDB, Docker, TailwindCSS, Nativewind</li>
   <li>🌱 Currently learning microservices, CI/CD and AI-powered tools</li>
   <li>🚀 Open to work opportunities</li>
 </ul>
