@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
-<h3 align="center">React · React Native · Node.js · Spring Boot · Python · MongoDB · Docker · Kubernetes · Github Actions</h3>
+<h3 align="center">React · React Native · Node.js · Spring Boot · Python · MongoDB · Postgresql <br/> Docker · Kubernetes · Github Actions</h3>
 
 <!-- ABOUT -->
 <h2>👨‍💻 About Me</h2>
